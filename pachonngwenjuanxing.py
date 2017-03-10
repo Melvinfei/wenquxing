@@ -1,5 +1,6 @@
 #-*- coding:utf8 -*-
 #by Liupengfei
+#hahah
 import urllib, urllib2, random
 from time import localtime, strftime, time
 
